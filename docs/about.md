@@ -1,3 +1,8 @@
+---
+title: About this Project
+permalink: /about
+---
+
 # About the Project
 
 こんにちは！
