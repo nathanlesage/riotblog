@@ -1,6 +1,6 @@
 # Include a navigation
 pages:
-  - url: /
+  - url: /riotblog
     title: Home
-  - url: /about
+  - url: /riotblog/about
     title: About the Project
