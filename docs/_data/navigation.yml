@@ -1,2 +1,6 @@
-- url: /about.md
-  title: About the Project
+# Include a navigation
+pages:
+  - url: /
+    title: Home
+  - url: /about.md
+    title: About the Project
