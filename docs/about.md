@@ -1,6 +1,6 @@
 ---
 title: About this Project
-permalink: /about
+permalink: https://nathanlesage.github.io/riotblog/about
 ---
 
 # About the Project
