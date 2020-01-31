@@ -1,6 +1,5 @@
 ---
 title: About this Project
-permalink: /riotblog/about/
 ---
 
 # About the Project
