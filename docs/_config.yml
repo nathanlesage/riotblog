@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 timezone: Europe/Berlin
 future: false # Don't publish articles with a future date
 unpublished: false # Don't render unpublished articles, obviously
