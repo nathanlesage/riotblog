@@ -6,5 +6,5 @@ unpublished: false # Don't render unpublished articles, obviously
 title: Riotblog
 description: "Riots as Stasis: This blog contains stories and intermediate results from my PhD on the topic of riots."
 show_downloads: false # No download url, b/c there is nothing to download
-# logo: [Location of the logo]
+logo: /assets/naisen.png
 # google_analytics: [Your Google Analytics tracking ID]
