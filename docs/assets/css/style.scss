@@ -3,7 +3,16 @@
 
 @import "{{ site.theme }}";
 
+/* Whoever had the idea to embolden
+   the links and thereby deliberately
+   changing breakings etc. had no idea
+   of the concept of links.
+*/
 a:hover, a:focus {
   font-weight: normal;
   text-decoration: underline;
+}
+
+header ul a:hover, header ul a:focus {
+  font-weight: normal;
 }
