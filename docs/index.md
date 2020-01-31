@@ -1,3 +1,8 @@
+---
+title: Riotblog
+layout: default
+---
+
 Welcome on this blog.
 
 It's currently empty as I'm just starting with my dissertation project. It'll be filled at a later point.
