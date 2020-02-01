@@ -4,3 +4,5 @@ pages:
     title: Home
   - url: /riotblog/about
     title: About the Project
+  - url: /riotblog/posts
+    title: Posts
