@@ -6,10 +6,10 @@
 /* Whoever had the idea to embolden
    the links and thereby deliberately
    changing breakings etc. had no idea
-   of the concept of links.
+   of the concept of typography.
 */
 a:hover, a:focus {
-  font-weight: normal;
+  font-weight: inherit; /* Not default bold, but what the surrounding text looks like. */
   text-decoration: underline;
 }
 
