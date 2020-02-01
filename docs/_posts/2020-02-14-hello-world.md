@@ -1,5 +1,5 @@
 ---
-title: “Hello, World.”
+title: "Hello, World."
 published: false
 ---
 
@@ -12,6 +12,3 @@ So the idea was born. Within a month I finished a first proposal attached to my 
 The last iteration of my dissertation proposal then was initiated in late 2019. In November, I met my prospective supervisor, sent her my proposal, and with a few remarks, she gave it a go! This last iteration only took about six weeks, but the improvements were significant. The whole proposal is now 21 pages long, including 6 pages of literature. In the proposal alone, I made it to 100 footnotes. It now contains specific chapters on the international aspects of riots, the research questions, I clarified the methodology, and added a lot of important information to understand what it is about.
 
 Soon I’ll be presenting the proposal in front of a group of researchers, and then, if everything goes according to plan, beginning with October 2020, the three “official” years of my PhD will begin.
-
-
-州宗 作
